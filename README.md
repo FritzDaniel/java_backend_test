@@ -1,5 +1,15 @@
 ## BACKEND TEST
 
+Req: 
+Java with Framework Springboot
+Java: 
+openjdk 11.0.19 2023-04-18
+OpenJDK Runtime Environment Temurin-11.0.19+7 (build 11.0.19+7)
+OpenJDK 64-Bit Server VM Temurin-11.0.19+7 (build 11.0.19+7, mixed mode)
+DB: Mysql
+
+API Route:
+
 GET
 getBooks
 http://localhost:8080/api/books 
@@ -57,6 +67,6 @@ json
 json untuk meminjam buku
 
 DEL
-DeleteBooks
+deleteBooks
 http://localhost:8080/api/books/1
 api untuk mendelete data buku dengan uniq id
