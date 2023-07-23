@@ -10,8 +10,8 @@ DB: Mysql
 
 Preconfig:
 1. clone project
-2. export database di folder mysql
-3. export collection di folder postman
+2. import database di folder mysql
+3. import collection di folder postman
 4. run application dengan vscode
 
 API Route:
